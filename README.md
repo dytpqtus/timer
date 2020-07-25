@@ -1,2 +1,2 @@
 # timer
-Python CLI timer
+Python CLI timer project

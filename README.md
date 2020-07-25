@@ -1,0 +1,2 @@
+# timer
+Python CLI timer
